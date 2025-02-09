@@ -36,6 +36,6 @@ def describe_image(image_path):
 
 # Example Usage
 if __name__ == "__main__":
-    image_path = r"D:\Python Projects 2025\images\Supercar_Lineup_(18092106572).jpg"
+    image_path = r"put your path" #put ypur image path here
     result = describe_image(image_path)
     print(result)
