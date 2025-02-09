@@ -21,7 +21,7 @@ Clone this repository:
 
 bash
 Copy
-git clone https://github.com/your-username/image-recognizer.git
+git clone [https://github.com/your-username/image-recognizer.git](https://github.com/Nasim7045/Image-Recognizer/tree/main)]
 cd image-recognizer
 Create a virtual environment (optional but recommended):
 
